@@ -7,9 +7,7 @@
 <h3 align="center">🛠 Techs that I've used at least once 🛠
    <p align="center">
      <br>
-     <code> <img height="50" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"> </code>
      <code> <img height="34" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"> </code>
-     <code> <img height="34" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/PyTorch_logo_black.svg/2560px-PyTorch_logo_black.svg.png"> </code>
      <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code></p>
   </h3>
 
