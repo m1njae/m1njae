@@ -8,7 +8,8 @@
    <p align="center">
      <br>
      <code> <img height="34" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg"> </code>
-     <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code></p>
+     <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+     <code> <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg"></code></p>
   </h3>
 
 <h3 align="center"> 😀 ME 😀
