@@ -3,12 +3,14 @@
   <br><img src="https://img.shields.io/badge/Languages-Korean%20%26%20English-pink" /><br>
   <a href="https://velog.io/@m1njae" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://www.instagram.com/_m1njae__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/rkdalswo1021@hanyang.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/rkdalswo1021@hanyang.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/><br><br>
+
   
   <li>Recently, I started studying to become a developer.</li>
   <li>I'm currently interested in server.</li>
   <li>I prefer to grow together.</li>
-  <li>I want to grow whenever and wherever I can and to do well.☘ </li>
+  <li>I want to grow whenever and wherever I can and to do well.☘ </li><br><bt>
+  </p>
  
   
 
