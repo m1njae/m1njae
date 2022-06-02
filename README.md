@@ -1,4 +1,4 @@
-<h3>Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, This is Kang, Minjae.</h3>
+<h3>Hi there! This is Kang, Minjae.</h3>
   <p>
   <br><img src="https://img.shields.io/badge/Languages-Korean%20%26%20English-pink" /><br>
   <a href="https://velog.io/@m1njae" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
