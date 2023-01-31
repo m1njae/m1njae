@@ -18,9 +18,12 @@ Contact: kangminjae1021@gmail.com
 
 #### Projects
    <a href="https://github.com/Team-DragMe"><b>DRAG ME</b></a>: 느슨하지만 단단한 "성장과정"에 초점을 맞춘 플랜 서비스
+   <br>
+   <a href="https://github.com/Antititi-time"><b>T.Time</b></a>: 나와 팀이 함께 성장하는 시간
 
 #### Experience
    <li><a href="http://sopt.org/wp/"><b>대학생 연합 IT벤처 창업 동아리 30th SOPT</b></a>: Server Development  (2022.04~ 2022.07) </li>
    <li><a href="http://sopt.org/wp/"><b>대학생 연합 IT벤처 창업 동아리 31th SOPT</b></a>: Server Development  (2022.09~ 2023.01) </li>
+   <li><a href="http://sopt.org/wp/"><b>대학생 연합 IT벤처 창업 동아리 31th SOPT</b></a>: <b>Server Development MVP</b></li>
    
 
