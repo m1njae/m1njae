@@ -27,5 +27,5 @@ Contact: kangminjae1021@gmail.com
    <li>30th SOPT Server Development (2022.04~ 2022.07)</li>
    <li>31th SOPT Server Development (2022.09~ 2023.01)</li>
    <li>31th SOPT Server Development MVP</b></li>
-   <li><a href= "https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-20232023">Aptos World Tour Seoul Hackathon Gaming Track 2nd Place</a></li>
+   <li><a href= "https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-2023">Aptos World Tour Seoul Hackathon Gaming Track 2nd Place</a></li>
 
