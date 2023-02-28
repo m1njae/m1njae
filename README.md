@@ -17,13 +17,15 @@ Contact: kangminjae1021@gmail.com
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-sqaure&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat-sqaure&logo=Github&logoColor=white">
 
 #### Projects
-   <a href="https://github.com/Team-DragMe"><b>DRAG ME</b></a>: 느슨하지만 단단한 "성장과정"에 초점을 맞춘 플랜 서비스
+   <a href="https://github.com/Team-DragMe">DRAG ME 드래그미</a>: 느슨하지만 단단한 "성장과정"에 초점을 맞춘 플랜 서비스 - Backend
    <br>
-   <a href="https://github.com/Antititi-time"><b>T.Time</b></a>: 나와 팀이 함께 성장하는 시간
+   <a href="https://github.com/Antititi-time">T.Time 티타임</a>: 나와 팀이 함께 성장하는 시간 - Backend
+   <br>
+   <a href="https://www.yoursnft.me">Yours 유얼스</a>: Easily record the information you want to record in NFT - Backend
 
 #### Experience
-   <li><a href="http://sopt.org/wp/"><b>대학생 연합 IT벤처 창업 동아리 30th SOPT</b></a>: Server Development  (2022.04~ 2022.07) </li>
-   <li><a href="http://sopt.org/wp/"><b>대학생 연합 IT벤처 창업 동아리 31th SOPT</b></a>: Server Development  (2022.09~ 2023.01) </li>
-   <li><a href="http://sopt.org/wp/"><b>대학생 연합 IT벤처 창업 동아리 31th SOPT</b></a>: <b>Server Development MVP</b></li>
-   
+   <li>30th SOPT Server Development (2022.04~ 2022.07)</li>
+   <li>31th SOPT Server Development (2022.09~ 2023.01)</li>
+   <li>31th SOPT Server Development MVP</b></li>
+   <li><a href= "https://aptosfoundation.org/currents/aptos-world-tour-seoul-hack-recap-20232023">Aptos World Tour Seoul Hackathon Gaming Track 2nd Place</a></li>
 
